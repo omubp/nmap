@@ -1,0 +1,6 @@
+Nmap
+ip=192.168.1.1
+1:ip r,ip route,nmap --help,ping 192.168.1.1,nmap -sn ip,
+2:nmap -sL 192.168.1.0/24
+3:ip addr show ,nmap (-sS,-sT )192.168.1.10
+4:nmap -sU ip,nmap -sF ip ,nmap -sX ip,nmap -o ip,nmap -A ip,nmap -sV ip

@@ -1,0 +1,5 @@
+ 1 :- Copy pwdump7 zip file and paste on win7 desktop .
+2 :-go to victim and create password for victim 
+3:open cmd and run pwdum7.exe (cd) copy and paste in notepad
+4:opcrack,PWDUMP file(load txt)
+5:Click Tables , Select Vista Free Tables , Browse the Vista-free folde
